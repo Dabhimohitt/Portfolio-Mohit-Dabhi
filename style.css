@@ -164,7 +164,7 @@ header.shadow {
 .social a {
 	margin-bottom: 1rem;
 	font-size: 22px;
-	color: var(--text-color);
+	color: #714b4b;
 }
 
 .social a:hover {
@@ -173,8 +173,8 @@ header.shadow {
 
 .btn {
 	display: inline-block;
-	background: #e5b78c;
-	color: black;
+	background: #714b67;
+	color: rgb(253, 251, 251);
 	margin: 5px;
 	padding: 0.7rem 1.3rem;
 	border-radius: 0.5rem;
@@ -266,7 +266,7 @@ span {
 	bottom: 0;
 	left: 0;
 	height: 0.5rem;
-	background: var(--main-color);
+	background: #714b67;
 	border-radius: 0.5rem;
 }
 
@@ -334,12 +334,12 @@ span {
 	align-items: center;
 	text-align: center;
 	border-radius: 0.5rem;
-	border-bottom: 2px solid var(--main-color);
-	box-shadow: 0 2px 7px rgb(14 55 54 / 15%);
+	border-bottom: 2px solid #714b67;
+	box-shadow: 0 2px 7px #714b67;
 }
 
 .services-box:hover {
-	background-color: #e5b78c;
+	background-color: #714b67;
 }
 
 .services-box h3 {
@@ -385,14 +385,14 @@ span {
 	padding: 1.5rem;
 	border: 1px solid #ccc;
 	border-radius: 0.5rem;
-	border-bottom: 2px solid var(--main-color);
-	box-shadow: 0 2px 7px rgb(14 55 54 / 15%);
+	border-bottom: 2px solid #714b67;
+	box-shadow: 0 2px 7px #714b67;
 	background-color: #fff;
 	transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .project-box:hover {
-	background-color: #e5b78c;
+	background-color: #714b67;
 	color: #fff;
 
 	&.project-box a {
@@ -436,7 +436,7 @@ body.active .project-box {
 }
 
 body.active .project-box:hover {
-	background-color: #02225a;
+	background-color: #714b67;
 	color: #fff;
 }
 
@@ -484,8 +484,8 @@ body.active .project-box p {
 	align-items: center;
 	text-align: center;
 	border-radius: 0.5rem;
-	border-bottom: 2px solid var(--main-color);
-	box-shadow: 0 2px 7px rgb(14 55 54 / 15%);
+	border-bottom: 2px solid #714b67;
+	box-shadow: 8px 1px 3px 4px #714b67;
 }
 
 .red-heading {
@@ -499,7 +499,7 @@ body.active .project-box p {
 .experience-box:hover {
 	color: white;
 	/* Change text color to white on hover */
-	background-color: var(--main-color);
+	background-color: #714b67;
 	/* Change background color to main color on hover */
 }
 
@@ -675,7 +675,7 @@ form textarea {
 
 .copyright {
 	padding: 20px;
-	background: var(--main-color);
+	background: #714b67;
 	text-align: center;
 	color: #fff;
 }
